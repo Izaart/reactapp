@@ -1,0 +1,12 @@
+.card {
+    height: 10vh;
+    width: 50vw;
+    background-color: #6689a1;
+    color: #e6e6e6;
+    border-radius: 10px;
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 1.2rem;
+}
